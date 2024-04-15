@@ -5,106 +5,101 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+
 
 ## Overview
+Building a social link profile using HTML and CSS provides a pratical opportunity to pracice fron-end web developmet skills while creating a useful and visually appealing webpage for showcasing social media profiles.
+Here's an overview of my Project:
+## Features:
+1. Header Section:
+. Displayed the user's name
+.Included a profile picture
 
-### The challenge
+2. Social Links Section:
+. Displayed various social media platforms(e.g., Facebook, Twitter, Instagram, LinkedIn, GitHub)
+. Each social media links lead to the respective social media profile
 
-Users should be able to:
+### Technologies Used:
+. HTML5: Structured the content of the webpage.
+. CSS3: Style the layout, colors, fonts, and overall appearance.
 
-- See hover and focus states for all interactive elements on the page
+### Project Structure:
+1. HTML File(index.html):
+. Create basic structure of the webpage using HTML tags.
+. Defined the header, social links section, and footer.
+. Use appropriate HTML elements like '<header>', '<nav>', '<ul>', '<li>', '<a>' etc.
+
+2. CSS File(styles.css):
+. Styled the layout and appearance of the webpage using CSS rules
+. Applied styles to the header,social links section, footer, and any other elements as needed
+. Used Flexbox layout
+. Added an hover effects to enhance user interaction
+
+3. Images:
+. Included a profile picture, ensured it is properly sized and optimized for web display.
+
+### Development Process:
+1. Planning:
+. Defined the layout and design of the social link profile
+. Used the given color schemes, and typography
+
+2. HTML Structure:
+. Started by creating the HTML structure, including the header, social links section, and footer.
+. Used semantic HTML elements for better accessibility and SEQ.
+
+3. CSS Styling:
+. Applied CSS styles to the HTML elements to achieve the desired layout and appearance.
+. Experiment with fonts, colors, spacing and alignmentto create a visually appealing design.
+
+4. Testing Refinement:
+. Tested the webpage across diifferent browsers and devices to ensure compatibility and responsiveness.
+. Made adjustments as needed to improve usability and visual presentation
+
+5. Deployment:
+. Once i was satisfied with the design and functionality, i deployed the webpage to a hosting service or share it locally for others to view.
+
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![images](C:\Users\PROGRESSIVE\Desktop\social-links-profile-main\social-links-profile-main\assets\images\Screenshot 2024-04-15 at 12-42-06 Frontend Mentor Social links profile.png)
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL:(https://social-links-profile-main-dp7a.vercel.app/)
 
-## My process
 
-### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
+1. HTML Structure: I learnt how to structure content using HTML elements. This includes organizing the header, navigation, social links, and the footer sections in a logical manner.
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+2. Semantic HTML: I understand the importance of using semantic HTML elements for better accessibility and SEO. Semantic elements like '<header>', '<nav>', '<ul>', and '<footer>' which provides meaning to the content and improve its readabilty for both humans and search engines.
 
-To see how you can add code snippets, see below:
+3. CSS Styling: I gained hands-on expreience with CSS styling, learnt how to apply styles to HTML elememts to control layout, colors, typography, spacing, and more. It helps me to understand box model, selectors, properties and values in CSS.
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
+4. Responsive Design:
+I learnt how to make my social link profile responsive by using CSS techniques such as media queries, flexbox. It ensures my webpage to look good and function properly across various devices and screen sizes
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
+5. User Interacion: I explored adding hover effects to enhance user interaction and engagement. It Introduces me to CSS techniques for creating dynamic and visually appealing web expriences.
 
-**Note: Delete this note and the content within this section and replace with your own learnings.**
+6. Cross-Browser-Compatibility: Learnt the importance of testing my webpage across different web browsers to ensure compatibility and consistency. It helps me identify and fix any styling or layout issues that may arise on specific browsers.
 
-### Continued development
+7. Project Management: I learnt how to break down a project into smaller tasks, set milestones, and manage my time effectively to complete the project successfullly
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
 
-### Useful resources
-
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
 ## Author
+- Website - [Amosu David](https://web.facebook.com/profile.php?id=100075491629007)
+- Frontend Mentor - [@David-dawn](https://www.frontendmentor.io/profile/David-dawn)
+- Twitter - [@DavidAmosu3](https://x.com/DavidAmosu3?t=LJcwz3QLKb19vS9g9xTz_w&s=09)
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
